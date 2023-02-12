@@ -14,6 +14,8 @@
 		C565B11429995D810054AE10 /* AppetizerListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C565B11329995D810054AE10 /* AppetizerListView.swift */; };
 		C565B11629995D8A0054AE10 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C565B11529995D8A0054AE10 /* AccountView.swift */; };
 		C565B11829995D930054AE10 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C565B11729995D930054AE10 /* OrderView.swift */; };
+		C565B11A299962290054AE10 /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = C565B119299962290054AE10 /* Appetizer.swift */; };
+		C565B11C299966480054AE10 /* AppetizerListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C565B11B299966480054AE10 /* AppetizerListCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		C565B11329995D810054AE10 /* AppetizerListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListView.swift; sourceTree = "<group>"; };
 		C565B11529995D8A0054AE10 /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		C565B11729995D930054AE10 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		C565B119299962290054AE10 /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
+		C565B11B299966480054AE10 /* AppetizerListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				C565B11729995D930054AE10 /* OrderView.swift */,
 				C565B11529995D8A0054AE10 /* AccountView.swift */,
 				C565B11329995D810054AE10 /* AppetizerListView.swift */,
+				C565B11B299966480054AE10 /* AppetizerListCell.swift */,
+				C565B119299962290054AE10 /* Appetizer.swift */,
 				C565B10929995D390054AE10 /* Assets.xcassets */,
 				C565B10B29995D390054AE10 /* Preview Content */,
 			);
@@ -146,6 +152,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C565B11A299962290054AE10 /* Appetizer.swift in Sources */,
+				C565B11C299966480054AE10 /* AppetizerListCell.swift in Sources */,
 				C565B11629995D8A0054AE10 /* AccountView.swift in Sources */,
 				C565B10829995D370054AE10 /* AppetizerTabView.swift in Sources */,
 				C565B10629995D370054AE10 /* AppetizersApp.swift in Sources */,
